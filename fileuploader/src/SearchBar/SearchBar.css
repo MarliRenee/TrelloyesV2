@@ -1,0 +1,13 @@
+.SearchBar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+  
+.SearchBar__heading {
+    flex: 1;
+}
+  
+.SearchBar__controls {
+    flex: 2;
+}
